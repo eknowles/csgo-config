@@ -1,0 +1,17 @@
+{
+  "name": "csgo-config",
+  "homepage": "http://eknowles.github.io/csgo-config",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^1.4.0",
+    "fs": "0.0.2",
+    "path": "^0.11.14",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.1.1"
+  }
+}
